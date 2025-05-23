@@ -9,9 +9,9 @@ Sou Analista de QA Sênior com experiência em **testes manuais** e **automaçã
 - **Linguagens:** Java, JavaScript
 - **Automação Web:** Selenium, Cypress, Cucumber
 - **Automação Mobile:** Appium
-- **Testes de API:** RestAssured
-- **Performance:** k6
-- **Build & Execução:** Maven
+- **Testes de API:** RestAssured, Postman, Bruno API
+- **Performance:** k6, JMeter
+- **Build & Execução:** Maven, Gradle
 - **BDD & Frameworks:** Cucumber, TestNG, JUnit
 - **Outros:** Git, GitHub, CI/CD
 
